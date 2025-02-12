@@ -45,23 +45,16 @@ else:
 
 [I know](#i-know)
 
-## Exemple de GeoJSON per a la ciutat d'Els Prats de Rei
+Els Prats de Rei:
 
-```json
+```geojson
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Els Prats de Rei",
-        "province": "Barcelona",
-        "region": "Catalunya"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [1.597, 41.663]
-      }
-    }
+  "type": "Polygon",
+  "coordinates": [
+      [
+          [41.6630],
+          [1.5970]
+      ]
   ]
 }
+```
