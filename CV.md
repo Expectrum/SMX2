@@ -1,6 +1,6 @@
 # Ramon Muntada Pérez 🥇
 
-![I'm Pumba](pumba.jpg)
+
 
 ## Certifications
 1. Criptografía aplicada a la práctica for webinars
