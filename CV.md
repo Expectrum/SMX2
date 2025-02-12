@@ -1,6 +1,6 @@
 # Ramon Muntada Pérez 🥇
 
-
+![I'm Pumba](pumba.jpg)
 
 ## Certifications
 1. Criptografía aplicada a la práctica for webinars
@@ -49,12 +49,39 @@ else:
 
 ```geojson
 {
-  "type": "Polygon",
-  "coordinates": [
-      [
-          [41.6630],
-          [1.5970]
-      ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              1.5355273780441792,
+              41.70958811302236
+            ],
+            [
+              1.5355273780441792,
+              41.702060764816196
+            ],
+            [
+              1.5476595505733428,
+              41.702060764816196
+            ],
+            [
+              1.5476595505733428,
+              41.70958811302236
+            ],
+            [
+              1.5355273780441792,
+              41.70958811302236
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
   ]
 }
 ```
