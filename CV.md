@@ -1,4 +1,4 @@
-# Ramon Muntada Pérez
+# Ramon Muntada Pérez 🥇
 
 ![I'm Pumba](pumba.jpg)
 
@@ -24,9 +24,10 @@ num-user = int(input("Enter a number from 1 to 10: "))
 num = r.randint(range(1, 11))
 if num-user == num:
   print("Correct")
-while num-user != num:
-  print("Incorrect, try again")
-  num = intinput("Enter a number from 1 to 10"))
+else:
+  while num-user != num:
+    print("Incorrect, try again")
+    num = intinput("Enter a number from 1 to 10"))
 ```
 
 | Technique          | Utility                                      | Language       |
@@ -42,4 +43,25 @@ while num-user != num:
 *-Linus Torvald*
 >
 
-[I know](Ramon)
+[I know](#i-know)
+
+## Exemple de GeoJSON per a la ciutat d'Els Prats de Rei
+
+```json
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Els Prats de Rei",
+        "province": "Barcelona",
+        "region": "Catalunya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.597, 41.663]
+      }
+    }
+  ]
+}
