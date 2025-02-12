@@ -1,6 +1,6 @@
 # Ramon Muntada Pérez
 
-![I'm Pumba] (pumba.jpg)
+![I'm Pumba](pumba.jpg)
 
 ## Certifications
 1. Criptografía aplicada a la práctica for webinars
@@ -12,4 +12,6 @@
 - *scripting*
 - Subneting
 
-[My personal page] (https://expectrum.github.io/MyPage/)
+[My personal page](https://expectrum.github.io/MyPage/)
+
+`print("I'm lethal")`
